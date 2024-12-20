@@ -4,4 +4,31 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="HTTP" Type="Folder">
+		<Item Name="Controllers" Type="Folder">
+			<Item Name="InfoController.lvclass" Type="LVClass" URL="../InfoController/InfoController.lvclass"/>
+		</Item>
+		<Item Name="Handlers" Type="Folder"/>
+		<Item Name="Services" Type="Folder"/>
+	</Item>
+	<Item Name="Packets" Type="Folder">
+		<Item Name="Command.lvclass" Type="LVClass" URL="../Command/Command.lvclass"/>
+		<Item Name="Data.lvclass" Type="LVClass" URL="../Data/Data.lvclass"/>
+		<Item Name="Packet.lvclass" Type="LVClass" URL="../Packet/Packet.lvclass"/>
+	</Item>
+	<Item Name="Services" Type="Folder">
+		<Item Name="DataService.lvclass" Type="LVClass" URL="../DataService/DataService.lvclass"/>
+		<Item Name="DiscoveryService.lvclass" Type="LVClass" URL="../DiscoveryService/DiscoveryService.lvclass"/>
+		<Item Name="Service Container.lvclass" Type="LVClass" URL="../Service Container/Service Container.lvclass"/>
+		<Item Name="Service.lvclass" Type="LVClass" URL="../Service/Service.lvclass"/>
+	</Item>
+	<Item Name="Channel.lvclass" Type="LVClass" URL="../Channel/Channel.lvclass"/>
+	<Item Name="Cluster.lvclass" Type="LVClass" URL="../Cluster/Cluster.lvclass"/>
+	<Item Name="Group.lvclass" Type="LVClass" URL="../Group/Group.lvclass"/>
+	<Item Name="Node.lvclass" Type="LVClass" URL="../Node/Node.lvclass"/>
+	<Item Name="Request.lvclass" Type="LVClass" URL="../Request/Request.lvclass"/>
+	<Item Name="Response.lvclass" Type="LVClass" URL="../Response/Response.lvclass"/>
+	<Item Name="System.lvclass" Type="LVClass" URL="../System/System.lvclass"/>
+	<Item Name="Task.lvclass" Type="LVClass" URL="../Task/Task.lvclass"/>
+	<Item Name="Vecto.lvclass" Type="LVClass" URL="../Vecto/Vecto.lvclass"/>
 </Library>

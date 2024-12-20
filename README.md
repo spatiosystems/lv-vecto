@@ -50,6 +50,8 @@ A node is a single application that generates and/or consumes data. Nodes can be
 
 A node is the most granular level for a configuration version to apply to; tasks within a node will not have more granular tracked configuration versions.
 
+Node configuration is the primary means of configuring a Vecto instance. Generally speaking, application initialization will be to populate the Node class with the needed information which is then passed in when initializing the Vecto instance.
+
 ### Task
 
 A task is a software component that has specific functionality implemented. Examples could be logging, command routing, closed-loop-control, DAQmx I/O, etc. A task can also have its status and health reported but generally this will be available for troubleshooting purposes. Tasks are the second standard level of command addressing within a cluster and any further addressing and parameter information will be task specific.
@@ -75,3 +77,12 @@ Additionally there are other communication channels used for discovery and gossi
 One initial design decision is to use HTTP for transactional exchanges outside of the scope of commands. HTTP communication can be used for querying status, configuration information, transferring files, and other transactions that do not require timely handling or centralized control. HTTP overhead can be substantial for small exchanges so it is better suited for larger exchanges but as long as header content can be kept to a minimum and HTTP transactions are not performed frequently it should provide minimal impact.
 
 A benefit of providing HTTP access is that it is incredibly easy to create tooling in nearly any environment or language that can perform HTTP requests so that debugging tools, status dashboards, and more can leverage the HTTP communication for messaging. External interfacing like this can have inadvertent performance impacts however so it is important to keep the HTTP usage to the minimum required, particularly for embedded RT targets. Centralized configuration management can push configurations to nodes over HTTP (with proper lockouts to prevent inadvertent updates during operations)
+
+### Discovery
+
+Discovery is accomplished by periodically publishing an advertising packet to a specific multicast endpoint dedicated to discovery within a specific cluster. The advertising packet contains the following details:
+
+- Node Name
+- IP Address
+- HTTP Server Port
+- Status (Opaque to Vecto: App/Node specific)
