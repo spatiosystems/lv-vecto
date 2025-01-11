@@ -13,9 +13,20 @@
 		<Item Name="libs" Type="Folder">
 			<Item Name="HTTP Server.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG HTTP Server/HTTP Server/HTTP Server.lvlib"/>
 			<Item Name="HTTP Utils.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG HTTP Utils/HTTP Utils/HTTP Utils.lvlib"/>
+			<Item Name="LV-Proto.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Protoc/LV-Proto/LV-Proto.lvlib"/>
+			<Item Name="Promises.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Promises/Promises/Promises.lvlib"/>
+		</Item>
+		<Item Name="proto" Type="Folder">
+			<Item Name="Discovery.lvlib" Type="Library" URL="../Vecto/proto/Discovery/Discovery.lvlib"/>
+			<Item Name="GroupData.lvlib" Type="Library" URL="../Vecto/proto/GroupData/GroupData.lvlib"/>
+			<Item Name="Service.lvlib" Type="Library" URL="../Vecto/proto/Service/Service.lvlib"/>
+			<Item Name="ServiceType.lvlib" Type="Library" URL="../Vecto/proto/ServiceType/ServiceType.lvlib"/>
+			<Item Name="TcpPayload.lvlib" Type="Library" URL="../Vecto/proto/TcpPayload/TcpPayload.lvlib"/>
+			<Item Name="UdpPayload.lvlib" Type="Library" URL="../Vecto/proto/UdpPayload/UdpPayload.lvlib"/>
 		</Item>
 		<Item Name="README.md" Type="Document" URL="../README.md"/>
 		<Item Name="Vecto.lvlib" Type="Library" URL="../Vecto/Vecto.lvlib"/>
+		<Item Name="VectoScratch.lvlib" Type="Library" URL="../VectoScratch/VectoScratch.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
@@ -63,6 +74,7 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="Stream-Simple-Msg.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-msg-simple/Stream-Simple-Msg/Stream-Simple-Msg.lvlib"/>
 				<Item Name="Stream-TCP.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-stream-tcp/Stream-TCP.lvlib"/>
 				<Item Name="Stream-Websocket.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG WebSocket Stream/Stream-Websocket/Stream-Websocket.lvlib"/>

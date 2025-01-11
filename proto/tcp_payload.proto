@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+message TcpPayload {
+    // id of target node to receive payload
+    int32 target_node = 1;
+
+    // id of target task within node to receive payload
+    int32 target_task = 2;
+
+    // id of node that sent payload
+    int32 source_id = 3;
+
+    // payload count shared across tcp, udp, and http for source node
+    int32 sequence = 4;
+
+    // ms unix epoch time
+    int64 timestamp = 5;
+
+    // payload message type for shared channels
+    int32 type_id = 6;
+
+    // flattened encapsulated message
+    bytes payload = 10;
+}

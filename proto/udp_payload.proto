@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+message UdpPayload {
+    // id of node that sent payload
+    int32 source_id = 3;
+
+    // payload count shared across tcp, udp, and http for source node
+    int32 sequence = 4;
+
+    // ms unix epoch time for packet time
+    int64 timestamp = 5;
+
+    // payload message type for shared channels
+    int32 type_id = 6;
+
+    // flattened encapsulated message
+    bytes payload = 10;
+}
