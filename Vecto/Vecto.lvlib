@@ -8,14 +8,13 @@
 
 </Property>
 	<Item Name="Components" Type="Folder">
-		<Item Name="Channel.lvclass" Type="LVClass" URL="../Channel/Channel.lvclass"/>
-		<Item Name="Cluster.lvclass" Type="LVClass" URL="../Cluster/Cluster.lvclass"/>
-		<Item Name="Group.lvclass" Type="LVClass" URL="../Group/Group.lvclass"/>
-		<Item Name="Node.lvclass" Type="LVClass" URL="../Node/Node.lvclass"/>
-		<Item Name="Request.lvclass" Type="LVClass" URL="../Request/Request.lvclass"/>
-		<Item Name="Response.lvclass" Type="LVClass" URL="../Response/Response.lvclass"/>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="System.lvclass" Type="LVClass" URL="../System/System.lvclass"/>
+		<Item Name="Cluster.lvclass" Type="LVClass" URL="../Cluster/Cluster.lvclass"/>
+		<Item Name="Node.lvclass" Type="LVClass" URL="../Node/Node.lvclass"/>
 		<Item Name="Task.lvclass" Type="LVClass" URL="../Task/Task.lvclass"/>
+		<Item Name="Group.lvclass" Type="LVClass" URL="../Group/Group.lvclass"/>
+		<Item Name="Channel.lvclass" Type="LVClass" URL="../Channel/Channel.lvclass"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="Connection Info.ctl" Type="VI" URL="../Connection Info.ctl"/>
