@@ -17,9 +17,9 @@ message Service {
 }
 
 message Discovery {
-    int32 node_id = 1;
+    fixed32 node_id = 1;
     string name = 2;
-    uint32 ip = 3;
+    fixed32 ip = 3;
     string status = 4;
     repeated Service services = 10;
 }

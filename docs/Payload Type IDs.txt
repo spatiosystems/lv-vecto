@@ -1,0 +1,3 @@
+Payload Type IDs
+
+1 - Discovery

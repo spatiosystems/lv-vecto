@@ -20,6 +20,7 @@
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="Connection Info.ctl" Type="VI" URL="../Connection Info.ctl"/>
 		<Item Name="Connection Type.ctl" Type="VI" URL="../Connection Type.ctl"/>
+		<Item Name="Discovery Info.ctl" Type="VI" URL="../Discovery Info.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
 		<Item Name="Task Info.ctl" Type="VI" URL="../Task Info.ctl"/>
 		<Item Name="Vecto Info.ctl" Type="VI" URL="../Vecto Info.ctl"/>
@@ -53,6 +54,7 @@
 		<Item Name="DiscoveryService.lvclass" Type="LVClass" URL="../DiscoveryService/DiscoveryService.lvclass"/>
 		<Item Name="HTTPServerService.lvclass" Type="LVClass" URL="../HTTPServerService/HTTPServerService.lvclass"/>
 		<Item Name="InfoService.lvclass" Type="LVClass" URL="../InfoService/InfoService.lvclass"/>
+		<Item Name="SequenceCountService.lvclass" Type="LVClass" URL="../SequenceCountService/SequenceCountService.lvclass"/>
 		<Item Name="Service Container.lvclass" Type="LVClass" URL="../Service Container/Service Container.lvclass"/>
 		<Item Name="VectoService.lvclass" Type="LVClass" URL="../VectoService/VectoService.lvclass"/>
 	</Item>

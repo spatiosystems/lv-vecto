@@ -92,6 +92,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342714384</Property>
 		</Item>
+		<Item Name="Lookup Services of Type.vi" Type="VI" URL="../Lookup Services of Type.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'[!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$"!=!!?!!!&gt;#V:F9X2P,GRW&lt;'FC$V.F=H:J9W5O&lt;(:D&lt;'&amp;T=Q!)5W6S&gt;GFD:8-!!":!1!!"`````Q!&amp;#&amp;.F=H:J9W6T!!"'1(!!(A!!*QN7:7.U&lt;SZM&gt;GRJ9BF4:8*W;7.F)%.P&lt;H2B;7ZF=CZM&gt;G.M98.T!"64:8*W;7.F)%.P&lt;H2B;7ZF=C"P&gt;81!(E"Q!"Y!!!Z-97*73568)%^C;G6D&gt;!!%6(FQ:1!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"'1(!!(A!!*QN7:7.U&lt;SZM&gt;GRJ9BF4:8*W;7.F)%.P&lt;H2B;7ZF=CZM&gt;G.M98.T!"24:8*W;7.F)%.P&lt;H2B;7ZF=C"J&lt;A!!91$Q!!Q!!Q!%!!9!"Q!%!!1!"!!)!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!%!!!!!I!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
 		<Item Name="Register Service.vi" Type="VI" URL="../Register Service.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'%!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!H#V:F9X2P,GRW&lt;'FC'6.F=H:J9W5A1W^O&gt;'&amp;J&lt;G6S,GRW9WRB=X-!&amp;6.F=H:J9W5A1W^O&gt;'&amp;J&lt;G6S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!&gt;#V:F9X2P,GRW&lt;'FC$V.F=H:J9W5O&lt;(:D&lt;'&amp;T=Q!(5W6S&gt;GFD:1"'1(!!(A!!*QN7:7.U&lt;SZM&gt;GRJ9BF4:8*W;7.F)%.P&lt;H2B;7ZF=CZM&gt;G.M98.T!"24:8*W;7.F)%.P&lt;H2B;7ZF=C"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%A!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

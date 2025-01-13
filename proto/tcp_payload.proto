@@ -1,23 +1,26 @@
 syntax = "proto3";
 
+// Payload types are mostly fixed size for more efficient processing by anything that needs to perform
+// message routing
+
 message TcpPayload {
     // id of target node to receive payload
-    int32 target_node = 1;
+    fixed32 target_node = 1;
 
     // id of target task within node to receive payload
-    int32 target_task = 2;
+    fixed32 target_task = 2;
 
     // id of node that sent payload
-    int32 source_id = 3;
+    fixed32 source_id = 3;
 
     // payload count shared across tcp, udp, and http for source node
-    int32 sequence = 4;
+    fixed32 sequence = 4;
 
     // ms unix epoch time
-    int64 timestamp = 5;
+    fixed64 timestamp = 5;
 
     // payload message type for shared channels
-    int32 type_id = 6;
+    fixed32 type_id = 6;
 
     // flattened encapsulated message
     bytes payload = 10;
