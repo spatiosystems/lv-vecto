@@ -179,7 +179,7 @@
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 		<Item Name="Update Remote Node Info.vi" Type="VI" URL="../Update Remote Node Info.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+3!!!!%A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!G#V:F9X2P,GRW&lt;'FC'%2J=W.P&gt;G6S?6.F=H:J9W5O&lt;(:D&lt;'&amp;T=Q!!&amp;%2J=W.P&gt;G6S?6.F=H:J9W5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"Q!(&lt;G^E:6^J:!!/1$$`````"'ZB&lt;75!!!F!"Q!#;8!!!""!-0````]'=X2B&gt;(6T!!"^!0%!!!!!!!!!!B&amp;4:8*W;7.F6(FQ:3ZM&gt;GRJ9A^&amp;&lt;H6N:8*B&gt;'FP&lt;CZD&gt;'Q!5U!7!!-45U636EF$262:5%6@65Z,4E^84B6426*735.&amp;6&amp;F126^51V"426*726)75U636EF$262:5%6@3&amp;255&amp;.&amp;5F:&amp;5A!!"(2Z='5!!!N!!Q!%='^S&gt;!!!,1$R!!!!!!!!!!).5W6S&gt;GFD:3ZM&gt;GRJ9AB%982B,G.U&lt;!!/!&amp;!!!A!,!!Q!&amp;E"!!!(`````!!U)=W6S&gt;GFD:8-!!$]!]1!!!!!!!!!#$U2J=W.P&gt;G6S?3ZM&gt;GRJ9AB%982B,G.U&lt;!!?1&amp;!!"1!(!!A!#1!+!!Y*2'FT9W^W:8*Z!%2!=!!?!!!G#V:F9X2P,GRW&lt;'FC'%2J=W.P&gt;G6S?6.F=H:J9W5O&lt;(:D&lt;'&amp;T=Q!!%U2J=W.P&gt;G6S?6.F=H:J9W5A;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!0!"!$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!%1!!!!!</Property>
