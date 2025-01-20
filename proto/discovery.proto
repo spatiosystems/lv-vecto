@@ -22,4 +22,6 @@ message Discovery {
     fixed32 ip = 3;
     string status = 4;
     repeated Service services = 10;
+    string system = 20;
+    string cluster = 21;
 }

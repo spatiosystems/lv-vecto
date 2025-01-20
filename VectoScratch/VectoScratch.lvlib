@@ -6,4 +6,5 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="DiscoveryProtoTest.vi" Type="VI" URL="../DiscoveryProtoTest.vi"/>
 	<Item Name="HTTP Info.vi" Type="VI" URL="../HTTP Info.vi"/>
+	<Item Name="Map Lookup Test.vi" Type="VI" URL="../Map Lookup Test.vi"/>
 </Library>
