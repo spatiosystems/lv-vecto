@@ -1,7 +1,8 @@
 syntax = "proto3";
 
-// Payload types are mostly fixed size for more efficient processing by anything that needs to perform
-// message routing
+// Payload wrappers primarily use fixed-sized elements to make it easier
+// for message handling to pass messages without needing to do full
+// decodes of the wrapper layer.
 
 message TcpPayload {
     // id of target node to receive payload

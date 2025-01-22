@@ -1,5 +1,9 @@
 syntax = "proto3";
 
+// Payload wrappers primarily use fixed-sized elements to make it easier
+// for message handling to pass messages without needing to do full
+// decodes of the wrapper layer.
+
 message UdpPayload {
     // id of node that sent payload
     fixed32 source_id = 3;

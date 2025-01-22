@@ -3,9 +3,8 @@
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Vecto.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Vecto.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*Y!!!*Q(C=\&gt;3R&lt;B."%-&lt;R,U#"I(*.ASQ[F`-#+@Q+\J.G;DKXO=Y3;&gt;)R68I`!3&gt;8E;D1P)+FV"2_!-P#`']^&gt;E%)&amp;:&amp;!SJ\X%H_\.`P,XO7EVFZ,L\2PL&gt;PO(WN^0^HV8&gt;@P*PVPWD$?6;NAXQ^('[HT-(1=0JQ/-Q\DW].1&amp;&gt;DP4_0VN4O/&lt;`NDC&gt;0H9@U7H%9?_H\VMQ_4H&lt;J/OYE?&lt;^PO$Y00\&lt;H^T_XKU@`^;O]OJ*&gt;03DD4]#+C*TXI4D=[?:)H?:)H?:)H?:!(?:!(?:!(O:-\O:-\O:-\O:%&lt;O:%&lt;O:%&lt;?4P)23ZSE5.+&amp;E]73IIG":,*5*3=%E`C34S*B[^+0)EH]33?R--5*:\%EXA34_,B-C7?R*.Y%E`CI634:$P)]31?SCPQ"*\!%XA#$UMK]!3!9,'A=&amp;!%BI,"Y*@!%XA#$\]K]!3?Q".Y!A`$#DS"*`!%HM$$*7V8IGG'ARQ0:?2Y()`D=4S/B^*S0)\(]4A?R].S=DS/RU%Y#TL&amp;)=CZS*HA@(%]DI=@=DS/R`%Y(M@$5,N$XH:GU!Q(/2\$9XA-D_%R0*31Y4%]BM@Q'"\+SP!9(M.D?!Q03]HQ'"\$9U#-26F?2D(D1G/3%2A?0OVJM8;8IEGM(6)^P+K(5P7QK2YCV=/BOOGKG[G[3;L.6WWK;L.5G[$[YV2I&amp;5;VC/LC9;)WH.@U&amp;8V*8^$H^"F^3B`42]/F@XHC:L02?LX7;L83=LH59L(1@$\8&lt;$&lt;4&gt;$L6?$T7;$1[P1&lt;?=ZR?#,L[Q4PBU\H/&lt;O_`8V\@P&lt;HZ`0&amp;&lt;^_8CQ]XVX&gt;@,WXO&gt;P4U`4(T#^A_]'`7CP2O0D4X[#3"]A;=!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
-	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.IsInterface" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.0</Property>

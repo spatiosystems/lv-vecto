@@ -1,3 +1,4 @@
 Payload Type IDs
 
 1 - Discovery
+2 - GroupData
