@@ -49,7 +49,8 @@
 		<Item Name="Service.lvclass" Type="LVClass" URL="../Service/Service.lvclass"/>
 	</Item>
 	<Item Name="Packets" Type="Folder">
-		<Item Name="Encapsulate TCP Payload.vi" Type="VI" URL="../Encapsulate TCP Payload.vi"/>
+		<Item Name="Encapsulate TCP Message.vi" Type="VI" URL="../Encapsulate TCP Message.vi"/>
+		<Item Name="Encapsulate UDP Message.vi" Type="VI" URL="../Encapsulate UDP Message.vi"/>
 		<Item Name="Encapsulate UDP Payload.vi" Type="VI" URL="../Encapsulate UDP Payload.vi"/>
 		<Item Name="Unwrap UDP Payload.vi" Type="VI" URL="../Unwrap UDP Payload.vi"/>
 	</Item>
@@ -63,6 +64,7 @@
 		<Item Name="DiscoveryService.lvclass" Type="LVClass" URL="../DiscoveryService/DiscoveryService.lvclass"/>
 		<Item Name="HTTPServerService.lvclass" Type="LVClass" URL="../HTTPServerService/HTTPServerService.lvclass"/>
 		<Item Name="InfoService.lvclass" Type="LVClass" URL="../InfoService/InfoService.lvclass"/>
+		<Item Name="MetricsService.lvclass" Type="LVClass" URL="../MetricsService/MetricsService.lvclass"/>
 		<Item Name="RemoteDataService.lvclass" Type="LVClass" URL="../RemoteDataService/RemoteDataService.lvclass"/>
 		<Item Name="SequenceCountService.lvclass" Type="LVClass" URL="../SequenceCountService/SequenceCountService.lvclass"/>
 		<Item Name="Service Container.lvclass" Type="LVClass" URL="../Service Container/Service Container.lvclass"/>
@@ -70,6 +72,7 @@
 		<Item Name="VectoService.lvclass" Type="LVClass" URL="../VectoService/VectoService.lvclass"/>
 	</Item>
 	<Item Name="Time" Type="Folder">
+		<Item Name="HRS Utility.vim" Type="VI" URL="../HRS Utility.vim"/>
 		<Item Name="Timestamp ms.vi" Type="VI" URL="../Timestamp ms.vi"/>
 		<Item Name="Timestamp to us.vi" Type="VI" URL="../Timestamp to us.vi"/>
 	</Item>
