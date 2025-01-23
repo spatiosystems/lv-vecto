@@ -55,6 +55,7 @@
 		<Item Name="Unwrap UDP Payload.vi" Type="VI" URL="../Unwrap UDP Payload.vi"/>
 	</Item>
 	<Item Name="Promise Values" Type="Folder">
+		<Item Name="ChannelValue.lvclass" Type="LVClass" URL="../ChannelValue/ChannelValue.lvclass"/>
 		<Item Name="GroupValue.lvclass" Type="LVClass" URL="../GroupValue/GroupValue.lvclass"/>
 		<Item Name="NodeInfoValue.lvclass" Type="LVClass" URL="../NodeInfoValue/NodeInfoValue.lvclass"/>
 		<Item Name="VectoInfoValue.lvclass" Type="LVClass" URL="../VectoInfoValue/VectoInfoValue.lvclass"/>
