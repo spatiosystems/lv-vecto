@@ -1,4 +1,5 @@
-Payload Type IDs
+Payload Type IDs (User-defined IDs can start at 30,000)
 
 1 - Discovery
 2 - GroupData
+3 - TCPAckNack
