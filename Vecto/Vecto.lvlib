@@ -23,6 +23,7 @@
 		<Item Name="Channel Config.lvclass" Type="LVClass" URL="../Channel Config/Channel Config.lvclass"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
+		<Item Name="Add Remove Action.ctl" Type="VI" URL="../Add Remove Action.ctl"/>
 		<Item Name="Channel Info.ctl" Type="VI" URL="../Channel Info.ctl"/>
 		<Item Name="Channel Value.ctl" Type="VI" URL="../Channel Value.ctl"/>
 		<Item Name="Channel.ctl" Type="VI" URL="../Channel.ctl"/>
@@ -30,6 +31,7 @@
 		<Item Name="Comms Features.ctl" Type="VI" URL="../Comms Features.ctl"/>
 		<Item Name="Config Pair.ctl" Type="VI" URL="../Config Pair.ctl"/>
 		<Item Name="Connection Info.ctl" Type="VI" URL="../Connection Info.ctl"/>
+		<Item Name="Connection State.ctl" Type="VI" URL="../Connection State.ctl"/>
 		<Item Name="Connection Type.ctl" Type="VI" URL="../Connection Type.ctl"/>
 		<Item Name="Discovery Info.ctl" Type="VI" URL="../Discovery Info.ctl"/>
 		<Item Name="Group Info.ctl" Type="VI" URL="../Group Info.ctl"/>
@@ -55,6 +57,7 @@
 		<Item Name="Services" Type="Folder"/>
 	</Item>
 	<Item Name="Interfaces" Type="Folder">
+		<Item Name="TCPConnectionHandler.lvclass" Type="LVClass" URL="../TCPConnectionHandler/TCPConnectionHandler.lvclass"/>
 		<Item Name="TCPMessageHandler.lvclass" Type="LVClass" URL="../TCPMessageHandler/TCPMessageHandler.lvclass"/>
 	</Item>
 	<Item Name="Packets" Type="Folder">
@@ -62,6 +65,7 @@
 		<Item Name="Encapsulate TCP Payload.vi" Type="VI" URL="../Encapsulate TCP Payload.vi"/>
 		<Item Name="Encapsulate UDP Message.vi" Type="VI" URL="../Encapsulate UDP Message.vi"/>
 		<Item Name="Encapsulate UDP Payload.vi" Type="VI" URL="../Encapsulate UDP Payload.vi"/>
+		<Item Name="Unwrap TCP Payload.vi" Type="VI" URL="../Unwrap TCP Payload.vi"/>
 		<Item Name="Unwrap UDP Payload.vi" Type="VI" URL="../Unwrap UDP Payload.vi"/>
 	</Item>
 	<Item Name="Promise Values" Type="Folder">
