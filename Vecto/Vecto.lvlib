@@ -8,6 +8,7 @@
 </Property>
 	<Item Name="_Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="VectoTCPConnectionHandler.lvclass" Type="LVClass" URL="../VectoTCPConnectionHandler/VectoTCPConnectionHandler.lvclass"/>
 	</Item>
 	<Item Name="Components" Type="Folder">
 		<Item Name="Channel.lvclass" Type="LVClass" URL="../Channel/Channel.lvclass"/>
@@ -33,7 +34,6 @@
 		<Item Name="Connection Info.ctl" Type="VI" URL="../Connection Info.ctl"/>
 		<Item Name="Connection State.ctl" Type="VI" URL="../Connection State.ctl"/>
 		<Item Name="Connection Type.ctl" Type="VI" URL="../Connection Type.ctl"/>
-		<Item Name="Discovery Info.ctl" Type="VI" URL="../Discovery Info.ctl"/>
 		<Item Name="Group Info.ctl" Type="VI" URL="../Group Info.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
 		<Item Name="Publish Config.ctl" Type="VI" URL="../Publish Config.ctl"/>

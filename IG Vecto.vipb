@@ -1,14 +1,14 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-01-13 15:40:20" Modified_Date="2025-01-22 17:39:47" Creator="derri" Comments="" ID="b17ef0f06835418779ff4ca7e7dcabd9">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-01-13 15:40:20" Modified_Date="2025-02-04 08:53:42" Creator="derri" Comments="" ID="69b3f44d98ebbf0798aac54ce580589b">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Vecto</Package_File_Name>
-    <Library_Version>0.1.0.2</Library_Version>
+    <Library_Version>0.2.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..</Library_Output_Folder>
+    <Library_Output_Folder>..\vip</Library_Output_Folder>
     <Company_Name>IlluminatedG</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
-    <Package_LabVIEW_Version>24.3</Package_LabVIEW_Version>
+    <Package_LabVIEW_Version>20.0</Package_LabVIEW_Version>
     <Community_Edition>true</Community_Edition>
     <Package_Icon>00000D7E002800000C9A00000400000200020022002200080000000000FFFFFF00FF80000000FFFFFFFFFFFF0000FFFFFFFFCCCC0000FFFFFFFF99990000FFFFFFFF66660000FFFFFFFF33330000FFFFFFFF00000000FFFFCCCCFFFF0000FFFFCCCCCCCC0000FFFFCCCC99990000FFFFCCCC66660000FFFFCCCC33330000FFFFCCCC00000000FFFF9999FFFF0000FFFF9999CCCC0000FFFF999999990000FFFF999966660000FFFF999933330000FFFF999900000000FFFF6666FFFF0000FFFF6666CCCC0000FFFF666699990000FFFF666666660000FFFF666633330000FFFF666600000000FFFF3333FFFF0000FFFF3333CCCC0000FFFF333399990000FFFF333366660000FFFF333333330000FFFF333300000000FFFF0000FFFF0000FFFF0000CCCC0000FFFF000099990000FFFF000066660000FFFF000033330000FFFF000000000000CCCCFFFFFFFF0000CCCCFFFFCCCC0000CCCCFFFF99990000CCCCFFFF66660000CCCCFFFF33330000CCCCFFFF00000000CCCCCCCCFFFF0000CCCCCCCCCCCC0000CCCCCCCC99990000CCCCCCCC66660000CCCCCCCC33330000CCCCCCCC00000000CCCC9999FFFF0000CCCC9999CCCC0000CCCC999999990000CCCC999966660000CCCC999933330000CCCC999900000000CCCC6666FFFF0000CCCC6666CCCC0000CCCC666699990000CCCC666666660000CCCC666633330000CCCC666600000000CCCC3333FFFF0000CCCC3333CCCC0000CCCC333399990000CCCC333366660000CCCC333333330000CCCC333300000000CCCC0000FFFF0000CCCC0000CCCC0000CCCC000099990000CCCC000066660000CCCC000033330000CCCC0000000000009999FFFFFFFF00009999FFFFCCCC00009999FFFF999900009999FFFF666600009999FFFF333300009999FFFF000000009999CCCCFFFF00009999CCCCCCCC00009999CCCC999900009999CCCC666600009999CCCC333300009999CCCC0000000099999999FFFF000099999999CCCC0000999999999999000099999999666600009999999933330000999999990000000099996666FFFF000099996666CCCC0000999966669999000099996666666600009999666633330000999966660000000099993333FFFF000099993333CCCC0000999933339999000099993333666600009999333333330000999933330000000099990000FFFF000099990000CCCC000099990000999900009999000066660000999900003333000099990000000000006666FFFFFFFF00006666FFFFCCCC00006666FFFF999900006666FFFF666600006666FFFF333300006666FFFF000000006666CCCCFFFF00006666CCCCCCCC00006666CCCC999900006666CCCC666600006666CCCC333300006666CCCC0000000066669999FFFF000066669999CCCC0000666699999999000066669999666600006666999933330000666699990000000066666666FFFF000066666666CCCC0000666666669999000066666666666600006666666633330000666666660000000066663333FFFF000066663333CCCC0000666633339999000066663333666600006666333333330000666633330000000066660000FFFF000066660000CCCC000066660000999900006666000066660000666600003333000066660000000000003333FFFFFFFF00003333FFFFCCCC00003333FFFF999900003333FFFF666600003333FFFF333300003333FFFF000000003333CCCCFFFF00003333CCCCCCCC00003333CCCC999900003333CCCC666600003333CCCC333300003333CCCC0000000033339999FFFF000033339999CCCC0000333399999999000033339999666600003333999933330000333399990000000033336666FFFF000033336666CCCC0000333366669999000033336666666600003333666633330000333366660000000033333333FFFF000033333333CCCC0000333333339999000033333333666600003333333333330000333333330000000033330000FFFF000033330000CCCC000033330000999900003333000066660000333300003333000033330000000000000000FFFFFFFF00000000FFFFCCCC00000000FFFF999900000000FFFF666600000000FFFF333300000000FFFF000000000000CCCCFFFF00000000CCCCCCCC00000000CCCC999900000000CCCC666600000000CCCC333300000000CCCC0000000000009999FFFF000000009999CCCC0000000099999999000000009999666600000000999933330000000099990000000000006666FFFF000000006666CCCC0000000066669999000000006666666600000000666633330000000066660000000000003333FFFF000000003333CCCC0000000033339999000000003333666600000000333333330000000033330000000000000000FFFF000000000000CCCC0000000000009999000000000000666600000000000033330000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000EEEEEEEEEEEE0000DDDDDDDDDDDD0000BBBBBBBBBBBB0000AAAAAAAAAAAA000088888888888800007777777777770000555555555555000044444444444400002222222222220000111111111111000000000000000000000000000000000000FFFF00000000000000000000007FD20000000000000000000000000000FFFFFC8181FCFEFF0000000000000000007FD20000000000000000000000FFAC81FAFAFAFAFAFA81ACFF00000000000000007FD200000000000000FFFEFC81FAFAFAFAFAFAFAFAFAFA81FCFEFF0000000000007FD200000000FFFE81FAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFA81ACFF00000000007FD2000000FFAC81FAFAFAFAFAFAFA2D042E2D2D57FAFAFA81FCFFFF00000000007FD200000000FFACFCFAFAFAFAFAFA572D2D2E0405052E590000000000000000007FD20000000000FFFFFC81FAFAFAFAFAFA81FCFE83050500000000000000000000D3A80000000000FE81ACFEFCFAFA81ACAC81AC0000050000000000000000000055D20000000000FEFAFA81FCFEFEFC81FAFAAC00000500000000000000000000AA800000000000FFFC81FAFAFAFAFAFAFAFCFE00000500000000000000000000F8AB00000000000000ADAC81FAFA81ACADFF000005050000002BF800F800FCABD4CF0000000000000005FAFCFEFEAC81050000000505050000D5AAD5D5D4D5D2FC00000000000000052EFAFAFA81FAFA2D05000005050000F82CABD4D2D2D4D400000000000000000557FAFA5757FAFAFA040000000000F82BD6D4D2D2D4AB0000000000000000052DFAFAFA2D2DFAFAFA2D050000FAFA2B2557D4D3D5FA00000000000000000004FAFA57572D2E5757FAFA0400005600F8FA2BFAAB00000000000000000000052DFAFA2E040505042EFAFA570500FAFA2B56FA2B000000000000000000000004FAFAFAFAFA2D2DFAFAFAFAFA2E05000056560000000000000000000000000557FAFAFAFAFA2D2DFAFAFAFAFA5705000000000000000000000000000000052EFAFAFAFAFAFA5757FAFAFAFAFAFA2D0500000000000000000000000000000557FAFAFAFAFAFAFAFAFAFAFAFAFAFA570400000000000000000000000000000505050505050505050505050505050505050500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF00FF0000FFFF0000FFFF0000FFFFFF0000FFFF0000000000D2000000000000FF00FF00FF000000FF2F00FF0000FF0000FF0000FF00000000D2D20000000000FF592F00FFFF002FFF00000000FF000059FF002FFF00D2D2D2D2D2D200000000FFFF00FF000000FF0000FF0000FF0000FF0000FF0000000000D2D20000000000FF0000FFFFFF0000FFFF0000FF00000000FFFF000000000000D20000000000000000000000000000000000000000000000000000000000000000000000000030018001FE00C007FF80603FFFF030FFFFFC18FFFFFE0C3FFFF0060FFFF00307FF900307FF900307FF900301FF31AF01FE39FE03FF33FC03FF07F807FF9FF007FF9FC00FFFDF800FFFE6001FFFE0003FFFF0003FFFF0003FFFF8000000000000000000000000002999CC102A349E183B613EFC34493C182732181000000000002900000012000000020000000D01000000000100000000000A000000080000000000240024002900000012000000020000000D00FAFAFA00010000000000100000001000000002002300000000000000000023002900000012000000020000000D00FFFFFF00010000000000100000001000000002002200010001000100010022002900000012000000020000000D00FAFAFA00010000000000100000001000000002000000240024002400240000002900000012000000020000000D00F8F8F800010000000000100000001000000002000100230023002300230001</Package_Icon>
     <Product_Name>IG Vecto</Product_Name>
@@ -16,7 +16,11 @@
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies/>
+    <Package_Dependencies>
+      <Additional_External_Dependencies>illuminatedg_lib_ig_http_server &gt;=0.5.3.36</Additional_External_Dependencies>
+      <Additional_External_Dependencies>illuminatedg_lib_ig_promises &gt;=0.9.2.7</Additional_External_Dependencies>
+      <Additional_External_Dependencies>illuminatedg_lib_ig_protoc &gt;=0.5.3.18</Additional_External_Dependencies>
+    </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
@@ -27,7 +31,7 @@
     </Custom_Action_VIs>
     <VI_Package_Configuration_File>IG Vecto.vipc</VI_Package_Configuration_File>
     <Description>
-      <One_Line_Description_Summary>Distributed communication and application framework also suitable for single process.</One_Line_Description_Summary>
+      <One_Line_Description_Summary>Distributed communication library with UDP telemetry, TCP messaging, and HTTP.</One_Line_Description_Summary>
       <Description/>
       <Copyright/>
       <Packager>Derrick Bommarito</Packager>
@@ -111,6 +115,15 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>lv-vecto.lvproj</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>VectoScratch</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>docs</Path>
+      </Exclusions>
       <Place_Folder_Contents>
         <Path/>
       </Place_Folder_Contents>
@@ -228,7 +241,7 @@
         <Path>VectoScratch</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>17DCBF5850B9284BBC3BAE9B3CEC9321</GUID>
+      <GUID>632019E5AA4DB078FAE0A90E42E3ECC8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -515,7 +528,7 @@
         <Path>Vecto\Unwrap UDP Payload.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E62565C31B9604E4075D8FA99235ED5E</GUID>
+      <GUID>DAE63212F61DA0E25351077EE8A8BC00</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -564,7 +577,7 @@
         <Path>VectoScratch\HTTP Info.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BCE508B411C4DA39C5531A0ED7EDCA63</GUID>
+      <GUID>3EE9CF57BDED28AC7B8D7903B68CB5EF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -596,7 +609,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\All Discovered Nodes.vi</Path>
+        <Path>Vecto\NodeDiscovery\All Discovered Nodes.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -610,7 +623,7 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Build UDP Payload.vi</Path>
+        <Path>Vecto\NodeDiscovery\Build UDP Payload.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -624,7 +637,7 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Close.vi</Path>
+        <Path>Vecto\AsyncClassTemplate\Close.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -638,7 +651,7 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Discovery Loop Async.vi</Path>
+        <Path>Vecto\NodeDiscovery\Discovery Loop Async.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -652,7 +665,7 @@
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Init Events.vi</Path>
+        <Path>Vecto\AsyncClassTemplate\Init Events.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -666,7 +679,7 @@
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Init Node Info.vi</Path>
+        <Path>Vecto\NodeDiscovery\Init Node Info.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -680,7 +693,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Init.vi</Path>
+        <Path>Vecto\AsyncClassTemplate\Init.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -694,7 +707,7 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Interval.vi</Path>
+        <Path>Vecto\NodeDiscovery\Interval.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -708,7 +721,7 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Launch Discovery Loop.vi</Path>
+        <Path>Vecto\NodeDiscovery\Launch Discovery Loop.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -722,7 +735,7 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Lookup Node.vi</Path>
+        <Path>Vecto\NodeDiscovery\Lookup Node.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -736,7 +749,7 @@
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Remove Service.vi</Path>
+        <Path>Vecto\NodeDiscovery\Remove Service.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -750,7 +763,7 @@
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Send Discovery Payload.vi</Path>
+        <Path>Vecto\NodeDiscovery\Send Discovery Payload.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -764,7 +777,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Start.vi</Path>
+        <Path>Vecto\NodeDiscovery\Start.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -778,7 +791,7 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Try Read Discovery UDP.vi</Path>
+        <Path>Vecto\NodeDiscovery\Try Read Discovery UDP.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -792,7 +805,7 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Update Remote Node Info.vi</Path>
+        <Path>Vecto\NodeDiscovery\Update Remote Node Info.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -806,7 +819,7 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Update Service Info.vi</Path>
+        <Path>Vecto\NodeDiscovery\Update Service Info.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -820,10 +833,10 @@
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Update Status.vi</Path>
+        <Path>Vecto\NodeDiscovery\Update Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4674FB9FE665398F1F41AF2F065164C2</GUID>
+      <GUID>B62376854F14D2288B6967903E4B36C6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -847,20 +860,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>HTTP Server.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\HTTPServerService\HTTP Server.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Init.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -869,10 +868,10 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\HTTPServerService\Init.vi</Path>
+        <Path>Vecto\AsyncClassTemplate\Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>35BA4F7479188E52AE52D4ED9CF784FD</GUID>
+      <GUID>152FB0AF55065E991E834F1DE5D4AF19</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -893,21 +892,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Vecto\HTTPService</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Service ID.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\HTTPService\Service ID.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>E57593319F53356B5B999C63AE35F43C</GUID>
+      <GUID>7E2BB2AAF3ADFC04E47C01E723461153</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -984,7 +969,7 @@
         <Path>Vecto\HTTPStatsHandler\Processing Step.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>651BC93CD74004C4DA91ECB9D6EB6D4D</GUID>
+      <GUID>C6104FAB0F4700ED6114097A6449E703</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1047,7 +1032,7 @@
         <Path>Vecto\InfoController\Vecto Info JSON.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6650D07C429D46BD47DC7C739D1A05B2</GUID>
+      <GUID>D9362B1B85F58B9651454C6FEFEABF15</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1135,21 +1120,7 @@
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\InfoService\Launch Async.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Node Info Service Async.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\InfoService\Node Info Service Async.vi</Path>
+        <Path>Vecto\VectoService\Launch Async.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1194,7 +1165,7 @@
         <Path>Vecto\InfoService\Update Task Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>02F4D4FB8B5564600B05E0F5ACCF698E</GUID>
+      <GUID>D9765676535BA964A38917F0B1A55B30</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1218,20 +1189,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Bind Address.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Node Config\Get Bind Address.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Get Discovery Info.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1241,20 +1198,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>Vecto\Node Config\Get Discovery Info.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get HTTP Port.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Node Config\Get HTTP Port.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1313,7 +1256,7 @@
         <Path>Vecto\Node Config\Set Discovery Info.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D03A05EB37A6D0BFBED63FEE4841335E</GUID>
+      <GUID>63236354896C642871A113AF399A7451</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1362,7 +1305,7 @@
         <Path>Vecto\NodeInfoValue\Read.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AB43F48BCACE30A50448D0F369674780</GUID>
+      <GUID>4FAA123D557E737620315B3A47A0647E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1467,7 +1410,7 @@
         <Path>Vecto\proto\UdpPayload</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1918618E103989C4CCA92F947D42EC89</GUID>
+      <GUID>E146DE5A1E23736B6BC8036304746267</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1530,7 +1473,7 @@
         <Path>Vecto\ProtobufResponse\Response String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9A647AFD542702ACA6784A7F5B4A2E3D</GUID>
+      <GUID>AF55F989AA4B14FBD442747129CC4723</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1593,7 +1536,7 @@
         <Path>Vecto\SequenceCountService\Release.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>036B4FB343DCC31055B0FC5B7B375491</GUID>
+      <GUID>56478CE8A8FB6DF07CCE6351D996FA19</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1614,49 +1557,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Vecto\Service</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Vecto Service ID.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service\Vecto Service ID.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Vecto Service Type.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service\Vecto Service Type.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Vecto Service Values.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service\Vecto Service Values.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>F2B07B634082F2A85714EC401B728C38</GUID>
+      <GUID>97D7C3E2BEB538F8A10D05F80059F914</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1680,20 +1581,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>All Services.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service Container\All Services.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Cleanup.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1708,20 +1595,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Duplicate Service Error.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service Container\Duplicate Service Error.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Init.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1730,63 +1603,7 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\Service Container\Init.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Lookup Service.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service Container\Lookup Service.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Lookup Services of Type.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service Container\Lookup Services of Type.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Not Found Error.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service Container\Not Found Error.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Register Service.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service Container\Register Service.vi</Path>
+        <Path>Vecto\AsyncClassTemplate\Init.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1800,10 +1617,10 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\Service Container\Remove Service.vi</Path>
+        <Path>Vecto\NodeDiscovery\Remove Service.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D0325F7CE9C4D5AADFEF241EDB4E4C79</GUID>
+      <GUID>9582B9E6509A4AFE7FE0922279929D2C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1869,20 +1686,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Init HTTP Service.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Vecto\Init HTTP Service.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Init Info Services.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1939,34 +1742,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Lookup Service.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Vecto\Lookup Service.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Lookup Services of Type.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Vecto\Lookup Services of Type.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Register HTTP Handlers.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1981,20 +1756,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Register Service.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Vecto\Register Service.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Remove Service.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2003,7 +1764,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\Vecto\Remove Service.vi</Path>
+        <Path>Vecto\NodeDiscovery\Remove Service.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -2076,7 +1837,7 @@
         <Path>Vecto\Vecto\Stop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2CD8D7C834F0A8F63210B35BFD9F7517</GUID>
+      <GUID>FD74AD7F85E0B5C04A42824B3C77E21F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2125,7 +1886,7 @@
         <Path>Vecto\VectoInfoValue\Read.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A33D3EAE45BAC16376394D1F8286A72C</GUID>
+      <GUID>FDC97742C2667FED0104488E5155C98C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2314,7 +2075,7 @@
         <Path>Vecto\VectoService\Vecto Info Async.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6A4777A02F941DBCE21FBA4DB6AE1DEB</GUID>
+      <GUID>264F8EB56854C3F3270C074474E84463</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -2419,7 +2180,7 @@
         <Path>Vecto\proto\Discovery\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1D2D18EF5F1764C3534140B75A508597</GUID>
+      <GUID>3DA29ACDA542411086C96AC13955C1FB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -2524,7 +2285,7 @@
         <Path>Vecto\proto\GroupData\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D2D99AC5A98F2D32A1AF57358299F577</GUID>
+      <GUID>5407A7A65AE914668A33D80EE63386E7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -2629,7 +2390,7 @@
         <Path>Vecto\proto\Service\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C1E824E996A59E3B511941C5A0D24759</GUID>
+      <GUID>38871F31B83D9883134E31462F9FAB54</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -2734,7 +2495,7 @@
         <Path>Vecto\proto\ServiceType\Enum Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>86FD83E16B7CC99B690E809075D84237</GUID>
+      <GUID>1282D430B44B10C484F990296AEE06E7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -2839,7 +2600,7 @@
         <Path>Vecto\proto\TcpPayload\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>23E0A508545F3DF065A9FE85EC62A17B</GUID>
+      <GUID>1FF9886C8C1B6AF5117F9504EC07E881</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -2944,7 +2705,7 @@
         <Path>Vecto\proto\UdpPayload\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>70A1C8CD78C9A8E918550CA02C685131</GUID>
+      <GUID>B9BC29FC449CAD7FC7637DDECD15F80F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -3035,7 +2796,7 @@
         <Path>Vecto\proto\Discovery\Class\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>478FDC08F3F8D23FE9B5ED83FB2E4201</GUID>
+      <GUID>E143A12C4F01FD4FD14AD06D0B485F73</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>20</Parent_Palette_Index>
@@ -3126,7 +2887,7 @@
         <Path>Vecto\proto\GroupData\Class\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>936C11A3FBC92BC5BC6B58E5DCE36114</GUID>
+      <GUID>E07C0FFACEF78D80EA8E75492D71C577</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>21</Parent_Palette_Index>
@@ -3217,7 +2978,7 @@
         <Path>Vecto\proto\Service\Class\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C0A4360BDFEFDA16961B603DBF0686EC</GUID>
+      <GUID>22CEF2CB53096902FF962D1A9A45058D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -3308,7 +3069,7 @@
         <Path>Vecto\proto\TcpPayload\Class\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6EAB0439499B81CB71596CFDE9B90989</GUID>
+      <GUID>44D0B43B3C7E1C0A381F2C2F2995CE34</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>24</Parent_Palette_Index>
@@ -3399,7 +3160,7 @@
         <Path>Vecto\proto\UdpPayload\Class\Unflatten.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>727D72C282C7936A5CFEFAA7A4E76033</GUID>
+      <GUID>03B8504E0A9ADE03C15D2F2BEE829BC9</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -3434,7 +3195,7 @@
         <Path>Vecto</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DCCA8C3A56B8201011E6E60F2CE8A5A3</GUID>
+      <GUID>6E11206747C2DCF49998B4F7565155A6</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3606,7 +3367,7 @@
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\Discovery Info.ctl</Path>
+        <Path>Vecto\Node Config\Discovery Info.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3651,7 +3412,7 @@
         <Path>Vecto\Vecto Info.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ADEDFE04588A3E2BAEDC726DD28C7330</GUID>
+      <GUID>B5DFF884DD006C4DFD426C7B0C61E410</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3683,7 +3444,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Incoming Events.ctl</Path>
+        <Path>Vecto\AsyncClassTemplate\Incoming Events.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3697,10 +3458,10 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\DiscoveryService\Update Service Data.ctl</Path>
+        <Path>Vecto\NodeDiscovery\Update Service Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5D599499E9F044DB83FC7F6E2DD24057</GUID>
+      <GUID>627D9E9C98467E2861947F8215F85606</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3735,7 +3496,7 @@
         <Path>Vecto\InfoController\Info Segment.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E4D3FC63D14B91522E10A0C80DE9A860</GUID>
+      <GUID>E3798C2DCF6F340AFEA9EBCA10101910</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3767,7 +3528,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\InfoService\Data.ctl</Path>
+        <Path>Vecto\proto\Discovery\Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3787,20 +3548,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Node Info Data'.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\InfoService\Node Info Data'.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Task Status Data.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3812,7 +3559,7 @@
         <Path>Vecto\InfoService\Task Status Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DA134DF9F1A47C289DFB74DF83BB9509</GUID>
+      <GUID>F1F3C7C8C2AADC1FB0EA9A5AC674E812</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3847,7 +3594,7 @@
         <Path>Vecto\Node Info.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6F4F15B911414C7FD29A2D38D3ADA925</GUID>
+      <GUID>043C4D703C3AC375777A94047025A842</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3952,7 +3699,7 @@
         <Path>Vecto\proto\UdpPayload</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DF6D0940BFC27DBD6683103F0497EFFE</GUID>
+      <GUID>3159ED22FB2A318A7505F41480B368A1</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3973,21 +3720,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Vecto\Service Container</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Services.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Vecto\Service Container\Services.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>8D9D9D246B3A1DF780E9034F26BB917E</GUID>
+      <GUID>1CD96C06A985784E247162F66D40CC8F</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -4022,7 +3755,7 @@
         <Path>Vecto\Vecto\Local Services.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>21F2F5258B4BBC0217D920FC1D812EFA</GUID>
+      <GUID>9E946620D20DAA87E816D3D4A5267013</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -4082,7 +3815,7 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Vecto\VectoService\Data.ctl</Path>
+        <Path>Vecto\proto\Discovery\Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4113,7 +3846,7 @@
         <Path>Vecto\VectoService\Info Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0BDD1A4F79B26677D7B81A02CF9F03D0</GUID>
+      <GUID>1DCED65C7138018A2DCBC07004AEABF8</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4148,7 +3881,7 @@
         <Path>Vecto\proto\Discovery\Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F875E609F095C5AF1F7DD5BED44C19DF</GUID>
+      <GUID>CB80AEFEDF9ED295877F321E7CAA2C28</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4183,7 +3916,7 @@
         <Path>Vecto\proto\GroupData\Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A19DAFC2630D13D998DAD2C89C4580B8</GUID>
+      <GUID>8C3C2215B677EF746D22426DBCBD9D89</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4218,7 +3951,7 @@
         <Path>Vecto\proto\Service\Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>39A2B73D5E949DC336DF1478A4639F34</GUID>
+      <GUID>8E32D3000C72F0E23CD29C13C730E2FA</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4253,7 +3986,7 @@
         <Path>Vecto\proto\ServiceType\Enumeration.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>87F0474F12CE03D198D780EE1CD45A76</GUID>
+      <GUID>D5D67108FC2F5612D6B98C2AF26D641A</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4288,7 +4021,7 @@
         <Path>Vecto\proto\TcpPayload\Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2D81346E8E31B298EBB11C3A06966C04</GUID>
+      <GUID>7298B18EF20642FB98A661B7C3E9896C</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4323,7 +4056,7 @@
         <Path>Vecto\proto\UdpPayload\Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6D554FF0426265A926CB29E8847778FA</GUID>
+      <GUID>76EFA48FBAB35E958989AB1CC789392B</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

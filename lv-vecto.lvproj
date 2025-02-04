@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="20008000">
-	<Property Name="NI.LV.All.SaveVersion" Type="Str">Editor version</Property>
+	<Property Name="NI.LV.All.SaveVersion" Type="Str">20.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -16,14 +16,6 @@
 		<Item Name="_docs" Type="Folder">
 			<Item Name="Payload Type IDs.txt" Type="Document" URL="../docs/Payload Type IDs.txt"/>
 		</Item>
-		<Item Name="libs" Type="Folder">
-			<Item Name="HTTP Server.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG HTTP Server/HTTP Server/HTTP Server.lvlib"/>
-			<Item Name="HTTP Utils.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG HTTP Utils/HTTP Utils/HTTP Utils.lvlib"/>
-			<Item Name="LV-Proto.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Protoc/LV-Proto/LV-Proto.lvlib"/>
-			<Item Name="Promises.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Promises/Promises/Promises.lvlib"/>
-			<Item Name="Stream-TCP.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-stream-tcp/Stream-TCP.lvlib"/>
-			<Item Name="Stream.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-stream/Stream.lvlib"/>
-		</Item>
 		<Item Name="proto" Type="Folder">
 			<Item Name="AckNackResult.lvlib" Type="Library" URL="../Vecto/proto/AckNackResult/AckNackResult.lvlib"/>
 			<Item Name="Discovery.lvlib" Type="Library" URL="../Vecto/proto/Discovery/Discovery.lvlib"/>
@@ -35,7 +27,6 @@
 			<Item Name="TcpPayload.lvlib" Type="Library" URL="../Vecto/proto/TcpPayload/TcpPayload.lvlib"/>
 			<Item Name="UdpPayload.lvlib" Type="Library" URL="../Vecto/proto/UdpPayload/UdpPayload.lvlib"/>
 		</Item>
-		<Item Name="README.md" Type="Document" URL="../README.md"/>
 		<Item Name="Vecto.lvlib" Type="Library" URL="../Vecto/Vecto.lvlib"/>
 		<Item Name="VectoScratch.lvlib" Type="Library" URL="../VectoScratch/VectoScratch.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -70,8 +61,11 @@
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
+				<Item Name="HTTP Server.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG HTTP Server/HTTP Server/HTTP Server.lvlib"/>
+				<Item Name="HTTP Utils.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG HTTP Utils/HTTP Utils/HTTP Utils.lvlib"/>
 				<Item Name="JSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-web-crypto/lv-json/JSON/JSON.lvlib"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
+				<Item Name="LV-Proto.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Protoc/LV-Proto/LV-Proto.lvlib"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
@@ -79,6 +73,7 @@
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
+				<Item Name="Promises.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Promises/Promises/Promises.lvlib"/>
 				<Item Name="Remove Duplicates From 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Remove Duplicates From 1D Array.vim"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
@@ -87,11 +82,14 @@
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="Stream-Simple-Msg.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-msg-simple/Stream-Simple-Msg/Stream-Simple-Msg.lvlib"/>
+				<Item Name="Stream-TCP.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-stream-tcp/Stream-TCP.lvlib"/>
 				<Item Name="Stream-Websocket.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG WebSocket Stream/Stream-Websocket/Stream-Websocket.lvlib"/>
+				<Item Name="Stream.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-stream/Stream.lvlib"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
+				<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="UDP Multicast Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Open.vi"/>
 				<Item Name="UDP Multicast Read-Only Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Read-Only Open.vi"/>
@@ -118,7 +116,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{17827100-564B-4A19-B490-B2BAC838A439}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">vecto-demo.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/vecto-demo/vecto-demo.exe</Property>
