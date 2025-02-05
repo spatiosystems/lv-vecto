@@ -16,8 +16,6 @@
 	</Item>
 	<Item Name="Configs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="System Config.lvclass" Type="LVClass" URL="../System Config/System Config.lvclass"/>
-		<Item Name="Cluster Config.lvclass" Type="LVClass" URL="../Cluster Config/Cluster Config.lvclass"/>
 		<Item Name="Node Config.lvclass" Type="LVClass" URL="../Node Config/Node Config.lvclass"/>
 		<Item Name="Task Config.lvclass" Type="LVClass" URL="../Task Config/Task Config.lvclass"/>
 		<Item Name="Group Config.lvclass" Type="LVClass" URL="../Group Config/Group Config.lvclass"/>

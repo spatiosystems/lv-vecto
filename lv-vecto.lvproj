@@ -16,6 +16,9 @@
 		<Item Name="_docs" Type="Folder">
 			<Item Name="Payload Type IDs.txt" Type="Document" URL="../docs/Payload Type IDs.txt"/>
 		</Item>
+		<Item Name="libs" Type="Folder">
+			<Item Name="LV-Proto.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Protoc/LV-Proto/LV-Proto.lvlib"/>
+		</Item>
 		<Item Name="proto" Type="Folder">
 			<Item Name="AckNackResult.lvlib" Type="Library" URL="../Vecto/proto/AckNackResult/AckNackResult.lvlib"/>
 			<Item Name="Discovery.lvlib" Type="Library" URL="../Vecto/proto/Discovery/Discovery.lvlib"/>
@@ -65,7 +68,6 @@
 				<Item Name="HTTP Utils.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG HTTP Utils/HTTP Utils/HTTP Utils.lvlib"/>
 				<Item Name="JSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-web-crypto/lv-json/JSON/JSON.lvlib"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
-				<Item Name="LV-Proto.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Protoc/LV-Proto/LV-Proto.lvlib"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
