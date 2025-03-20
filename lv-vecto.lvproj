@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="20008000">
+<Project Type="Project" LVVersion="23008000">
 	<Property Name="NI.LV.All.SaveVersion" Type="Str">20.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
@@ -21,6 +21,7 @@
 		</Item>
 		<Item Name="proto" Type="Folder">
 			<Item Name="AckNackResult.lvlib" Type="Library" URL="../Vecto/proto/AckNackResult/AckNackResult.lvlib"/>
+			<Item Name="ConstellationCommand.lvlib" Type="Library" URL="../Vecto/proto/ConstellationCommand/ConstellationCommand.lvlib"/>
 			<Item Name="Discovery.lvlib" Type="Library" URL="../Vecto/proto/Discovery/Discovery.lvlib"/>
 			<Item Name="GroupData.lvlib" Type="Library" URL="../Vecto/proto/GroupData/GroupData.lvlib"/>
 			<Item Name="Service.lvlib" Type="Library" URL="../Vecto/proto/Service/Service.lvlib"/>
