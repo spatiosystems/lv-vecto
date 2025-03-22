@@ -22,6 +22,7 @@
 		<Item Name="Channel Config.lvclass" Type="LVClass" URL="../Channel Config/Channel Config.lvclass"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Add Remove Action.ctl" Type="VI" URL="../Add Remove Action.ctl"/>
 		<Item Name="Channel Info.ctl" Type="VI" URL="../Channel Info.ctl"/>
 		<Item Name="Channel Value.ctl" Type="VI" URL="../Channel Value.ctl"/>
@@ -35,6 +36,7 @@
 		<Item Name="Group Info.ctl" Type="VI" URL="../Group Info.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
 		<Item Name="Publish Config.ctl" Type="VI" URL="../Publish Config.ctl"/>
+		<Item Name="Send Message Data.ctl" Type="VI" URL="../Send Message Data.ctl"/>
 		<Item Name="Task Info.ctl" Type="VI" URL="../Task Info.ctl"/>
 		<Item Name="Task State.ctl" Type="VI" URL="../Task State.ctl"/>
 		<Item Name="Task Status.ctl" Type="VI" URL="../Task Status.ctl"/>
@@ -70,6 +72,7 @@
 		<Item Name="ChannelValue.lvclass" Type="LVClass" URL="../ChannelValue/ChannelValue.lvclass"/>
 		<Item Name="GroupValue.lvclass" Type="LVClass" URL="../GroupValue/GroupValue.lvclass"/>
 		<Item Name="NodeInfoValue.lvclass" Type="LVClass" URL="../NodeInfoValue/NodeInfoValue.lvclass"/>
+		<Item Name="ReplyValue.lvclass" Type="LVClass" URL="../ReplyValue/ReplyValue.lvclass"/>
 		<Item Name="VectoInfoValue.lvclass" Type="LVClass" URL="../VectoInfoValue/VectoInfoValue.lvclass"/>
 	</Item>
 	<Item Name="Services" Type="Folder">

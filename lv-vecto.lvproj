@@ -18,6 +18,7 @@
 		</Item>
 		<Item Name="libs" Type="Folder">
 			<Item Name="LV-Proto.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Protoc/LV-Proto/LV-Proto.lvlib"/>
+			<Item Name="Promises.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Promises/Promises/Promises.lvlib"/>
 		</Item>
 		<Item Name="proto" Type="Folder">
 			<Item Name="AckNackResult.lvlib" Type="Library" URL="../Vecto/proto/AckNackResult/AckNackResult.lvlib"/>
@@ -28,6 +29,7 @@
 			<Item Name="TcpAckNack.lvlib" Type="Library" URL="../Vecto/proto/TcpAckNack/TcpAckNack.lvlib"/>
 			<Item Name="TcpClientHello.lvlib" Type="Library" URL="../Vecto/proto/TcpClientHello/TcpClientHello.lvlib"/>
 			<Item Name="TcpPayload.lvlib" Type="Library" URL="../Vecto/proto/TcpPayload/TcpPayload.lvlib"/>
+			<Item Name="TcpReply.lvlib" Type="Library" URL="../Vecto/proto/TcpReply/TcpReply.lvlib"/>
 			<Item Name="UdpPayload.lvlib" Type="Library" URL="../Vecto/proto/UdpPayload/UdpPayload.lvlib"/>
 		</Item>
 		<Item Name="Vecto.lvlib" Type="Library" URL="../Vecto/Vecto.lvlib"/>
@@ -53,6 +55,7 @@
 				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
 				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
+				<Item Name="Flatten to JSON.vim" Type="VI" URL="/&lt;vilib&gt;/IlluminatedG/lv-msg-simple/Stream-Simple-Msg/Flatten to JSON.vim"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
@@ -75,7 +78,6 @@
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
-				<Item Name="Promises.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Promises/Promises/Promises.lvlib"/>
 				<Item Name="Remove Duplicates From 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Remove Duplicates From 1D Array.vim"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
@@ -87,6 +89,7 @@
 				<Item Name="Stream-TCP.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-stream-tcp/Stream-TCP.lvlib"/>
 				<Item Name="Stream-Websocket.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG WebSocket Stream/Stream-Websocket/Stream-Websocket.lvlib"/>
 				<Item Name="Stream.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/lv-stream/Stream.lvlib"/>
+				<Item Name="Synchronize Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Synchronize Data Flow.vim"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
@@ -97,6 +100,7 @@
 				<Item Name="UDP Multicast Read-Only Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Read-Only Open.vi"/>
 				<Item Name="UDP Multicast Read-Write Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Read-Write Open.vi"/>
 				<Item Name="UDP Multicast Write-Only Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Write-Only Open.vi"/>
+				<Item Name="Unflatten from JSON.vim" Type="VI" URL="/&lt;vilib&gt;/IlluminatedG/lv-msg-simple/Stream-Simple-Msg/Unflatten from JSON.vim"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 		</Item>
