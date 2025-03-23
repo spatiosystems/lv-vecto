@@ -8,6 +8,7 @@
 	<Item Name="HTTP Info.vi" Type="VI" URL="../HTTP Info.vi"/>
 	<Item Name="Map Lookup Test.vi" Type="VI" URL="../Map Lookup Test.vi"/>
 	<Item Name="Request Reply Test.vi" Type="VI" URL="../Request Reply Test.vi"/>
+	<Item Name="RequestReply Message Handler.lvclass" Type="LVClass" URL="../RequestReply Message Handler/RequestReply Message Handler.lvclass"/>
 	<Item Name="Simple TCP Handler.lvclass" Type="LVClass" URL="../Simple TCP Handler/Simple TCP Handler.lvclass"/>
 	<Item Name="Simple TCP Test.vi" Type="VI" URL="../Simple TCP Test.vi"/>
 </Library>
