@@ -4,11 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Constellation Command Handler.lvclass" Type="LVClass" URL="../Constellation Command Handler/Constellation Command Handler.lvclass"/>
 	<Item Name="DiscoveryProtoTest.vi" Type="VI" URL="../DiscoveryProtoTest.vi"/>
 	<Item Name="Group Publishing.vi" Type="VI" URL="../Group Publishing.vi"/>
 	<Item Name="HTTP Info.vi" Type="VI" URL="../HTTP Info.vi"/>
 	<Item Name="Map Lookup Test.vi" Type="VI" URL="../Map Lookup Test.vi"/>
+	<Item Name="Simple TCP Client 2.vi" Type="VI" URL="../Simple TCP Client 2.vi"/>
 	<Item Name="Simple TCP Client.vi" Type="VI" URL="../Simple TCP Client.vi"/>
 	<Item Name="Simple TCP Handler.lvclass" Type="LVClass" URL="../Simple TCP Handler/Simple TCP Handler.lvclass"/>
 	<Item Name="Simple TCP Server.vi" Type="VI" URL="../Simple TCP Server.vi"/>
