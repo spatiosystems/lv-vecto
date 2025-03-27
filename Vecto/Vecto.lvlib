@@ -26,6 +26,7 @@
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Add Remove Action.ctl" Type="VI" URL="../Add Remove Action.ctl"/>
 		<Item Name="Channel Info.ctl" Type="VI" URL="../Channel Info.ctl"/>
+		<Item Name="Channel Init.ctl" Type="VI" URL="../Channel Init.ctl"/>
 		<Item Name="Channel Value.ctl" Type="VI" URL="../Channel Value.ctl"/>
 		<Item Name="Channel.ctl" Type="VI" URL="../Channel.ctl"/>
 		<Item Name="Client Info.ctl" Type="VI" URL="../Client Info.ctl"/>
