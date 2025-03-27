@@ -15,7 +15,7 @@ message UdpPayload {
     fixed64 timestamp = 5;
 
     // payload message type for shared channels
-    fixed32 type_id = 6;
+    string type = 6;
 
     // flattened encapsulated message
     bytes payload = 10;

@@ -1,6 +1,6 @@
-Payload Type IDs (User-defined IDs can start at 30,000)
+Payload Type IDs (all vecto IDs start with "v:")
 
-1 - Discovery
-2 - GroupData
-3 - TCPAckNack
-4 - TcpReply
+v:Discovery
+v:GroupData
+v:TCPAckNack
+v:TcpReply

@@ -20,6 +20,6 @@ message TcpAckNack {
     fixed32 target_task = 2;
     fixed32 sequence = 4;
     fixed64 timestamp = 5;
-    fixed32 type_id = 6;
+    string type = 6;
     AckNackResult result = 10;
 }
