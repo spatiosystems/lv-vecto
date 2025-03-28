@@ -50,6 +50,7 @@
 	<Item Name="HTTP" Type="Folder">
 		<Item Name="Controllers" Type="Folder">
 			<Item Name="InfoController.lvclass" Type="LVClass" URL="../InfoController/InfoController.lvclass"/>
+			<Item Name="PublishConfigController.lvclass" Type="LVClass" URL="../PublishConfigController/PublishConfigController.lvclass"/>
 		</Item>
 		<Item Name="Handlers" Type="Folder">
 			<Item Name="HTTPStatsHandler.lvclass" Type="LVClass" URL="../HTTPStatsHandler/HTTPStatsHandler.lvclass"/>
@@ -57,7 +58,6 @@
 		<Item Name="Response" Type="Folder">
 			<Item Name="ProtobufResponse.lvclass" Type="LVClass" URL="../ProtobufResponse/ProtobufResponse.lvclass"/>
 		</Item>
-		<Item Name="Services" Type="Folder"/>
 	</Item>
 	<Item Name="Interfaces" Type="Folder">
 		<Item Name="TCPConnectionHandler.lvclass" Type="LVClass" URL="../TCPConnectionHandler/TCPConnectionHandler.lvclass"/>
@@ -73,6 +73,7 @@
 	</Item>
 	<Item Name="Promise Values" Type="Folder">
 		<Item Name="ChannelValue.lvclass" Type="LVClass" URL="../ChannelValue/ChannelValue.lvclass"/>
+		<Item Name="GroupsValue.lvclass" Type="LVClass" URL="../GroupsValue/GroupsValue.lvclass"/>
 		<Item Name="GroupValue.lvclass" Type="LVClass" URL="../GroupValue/GroupValue.lvclass"/>
 		<Item Name="NodeInfoValue.lvclass" Type="LVClass" URL="../NodeInfoValue/NodeInfoValue.lvclass"/>
 		<Item Name="ReplyValue.lvclass" Type="LVClass" URL="../ReplyValue/ReplyValue.lvclass"/>
