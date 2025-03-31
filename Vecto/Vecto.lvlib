@@ -37,6 +37,8 @@
 		<Item Name="Connection Type.ctl" Type="VI" URL="../Connection Type.ctl"/>
 		<Item Name="Group Info.ctl" Type="VI" URL="../Group Info.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
+		<Item Name="Publish Config Response Group.ctl" Type="VI" URL="../Publish Config Response Group.ctl"/>
+		<Item Name="Publish Config Response.ctl" Type="VI" URL="../Publish Config Response.ctl"/>
 		<Item Name="Publish Config.ctl" Type="VI" URL="../Publish Config.ctl"/>
 		<Item Name="Send Message Data.ctl" Type="VI" URL="../Send Message Data.ctl"/>
 		<Item Name="Target Group.ctl" Type="VI" URL="../Target Group.ctl"/>
@@ -55,9 +57,7 @@
 		<Item Name="Handlers" Type="Folder">
 			<Item Name="HTTPStatsHandler.lvclass" Type="LVClass" URL="../HTTPStatsHandler/HTTPStatsHandler.lvclass"/>
 		</Item>
-		<Item Name="Response" Type="Folder">
-			<Item Name="ProtobufResponse.lvclass" Type="LVClass" URL="../ProtobufResponse/ProtobufResponse.lvclass"/>
-		</Item>
+		<Item Name="Response" Type="Folder"/>
 	</Item>
 	<Item Name="Interfaces" Type="Folder">
 		<Item Name="TCPConnectionHandler.lvclass" Type="LVClass" URL="../TCPConnectionHandler/TCPConnectionHandler.lvclass"/>
