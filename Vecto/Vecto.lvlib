@@ -76,6 +76,7 @@
 	</Item>
 	<Item Name="Promise Values" Type="Folder">
 		<Item Name="ChannelValue.lvclass" Type="LVClass" URL="../ChannelValue/ChannelValue.lvclass"/>
+		<Item Name="GroupNamesValue.lvclass" Type="LVClass" URL="../GroupNamesValue/GroupNamesValue.lvclass"/>
 		<Item Name="GroupsValue.lvclass" Type="LVClass" URL="../GroupsValue/GroupsValue.lvclass"/>
 		<Item Name="GroupValue.lvclass" Type="LVClass" URL="../GroupValue/GroupValue.lvclass"/>
 		<Item Name="NodeInfoValue.lvclass" Type="LVClass" URL="../NodeInfoValue/NodeInfoValue.lvclass"/>
@@ -83,6 +84,9 @@
 		<Item Name="VectoInfoValue.lvclass" Type="LVClass" URL="../VectoInfoValue/VectoInfoValue.lvclass"/>
 	</Item>
 	<Item Name="Services" Type="Folder">
+		<Item Name="Utilities" Type="Folder">
+			<Item Name="Port for Service.vi" Type="VI" URL="../Port for Service.vi"/>
+		</Item>
 		<Item Name="ChannelService.lvclass" Type="LVClass" URL="../ChannelService/ChannelService.lvclass"/>
 		<Item Name="MetricsService.lvclass" Type="LVClass" URL="../MetricsService/MetricsService.lvclass"/>
 		<Item Name="NodeDiscovery.lvclass" Type="LVClass" URL="../NodeDiscovery/NodeDiscovery.lvclass"/>

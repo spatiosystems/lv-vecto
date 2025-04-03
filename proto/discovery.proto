@@ -24,4 +24,6 @@ message Discovery {
     repeated Service services = 10;
     string system = 20;
     string cluster = 21;
+    string app_version = 30;
+    string cfg_version = 31;
 }
