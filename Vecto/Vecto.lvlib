@@ -76,8 +76,8 @@
 	</Item>
 	<Item Name="Promise Values" Type="Folder">
 		<Item Name="ChannelValue.lvclass" Type="LVClass" URL="../ChannelValue/ChannelValue.lvclass"/>
+		<Item Name="GroupArrayValue.lvclass" Type="LVClass" URL="../GroupArrayValue/GroupArrayValue.lvclass"/>
 		<Item Name="GroupNamesValue.lvclass" Type="LVClass" URL="../GroupNamesValue/GroupNamesValue.lvclass"/>
-		<Item Name="GroupsValue.lvclass" Type="LVClass" URL="../GroupsValue/GroupsValue.lvclass"/>
 		<Item Name="GroupValue.lvclass" Type="LVClass" URL="../GroupValue/GroupValue.lvclass"/>
 		<Item Name="NodeInfoValue.lvclass" Type="LVClass" URL="../NodeInfoValue/NodeInfoValue.lvclass"/>
 		<Item Name="ReplyValue.lvclass" Type="LVClass" URL="../ReplyValue/ReplyValue.lvclass"/>
