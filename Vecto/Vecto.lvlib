@@ -38,8 +38,10 @@
 		<Item Name="Connection Info.ctl" Type="VI" URL="../Connection Info.ctl"/>
 		<Item Name="Connection State.ctl" Type="VI" URL="../Connection State.ctl"/>
 		<Item Name="Connection Type.ctl" Type="VI" URL="../Connection Type.ctl"/>
+		<Item Name="Event Level.ctl" Type="VI" URL="../Event Level.ctl"/>
 		<Item Name="Group Data Type.ctl" Type="VI" URL="../Group Data Type.ctl"/>
 		<Item Name="Group Info.ctl" Type="VI" URL="../Group Info.ctl"/>
+		<Item Name="Init Implementations.ctl" Type="VI" URL="../Init Implementations.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
 		<Item Name="Publish Config Response Group.ctl" Type="VI" URL="../Publish Config Response Group.ctl"/>
 		<Item Name="Publish Config Response.ctl" Type="VI" URL="../Publish Config Response.ctl"/>
@@ -67,6 +69,7 @@
 		</Item>
 	</Item>
 	<Item Name="Interfaces" Type="Folder">
+		<Item Name="EventLogHandler.lvclass" Type="LVClass" URL="../EventLogHandler/EventLogHandler.lvclass"/>
 		<Item Name="TCPConnectionHandler.lvclass" Type="LVClass" URL="../TCPConnectionHandler/TCPConnectionHandler.lvclass"/>
 		<Item Name="TCPMessageHandler.lvclass" Type="LVClass" URL="../TCPMessageHandler/TCPMessageHandler.lvclass"/>
 	</Item>
@@ -93,6 +96,7 @@
 			<Item Name="Port for Service.vi" Type="VI" URL="../Port for Service.vi"/>
 		</Item>
 		<Item Name="ChannelService.lvclass" Type="LVClass" URL="../ChannelService/ChannelService.lvclass"/>
+		<Item Name="EventLoggingService.lvclass" Type="LVClass" URL="../EventLoggingService/EventLoggingService.lvclass"/>
 		<Item Name="MetricsService.lvclass" Type="LVClass" URL="../MetricsService/MetricsService.lvclass"/>
 		<Item Name="NodeDiscovery.lvclass" Type="LVClass" URL="../NodeDiscovery/NodeDiscovery.lvclass"/>
 		<Item Name="NodeStatus.lvclass" Type="LVClass" URL="../InfoService/NodeStatus.lvclass"/>
