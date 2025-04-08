@@ -14,6 +14,9 @@
 	<Item Name="Components" Type="Folder">
 		<Item Name="Channel.lvclass" Type="LVClass" URL="../Channel/Channel.lvclass"/>
 		<Item Name="Group.lvclass" Type="LVClass" URL="../Group/Group.lvclass"/>
+		<Item Name="GroupAbstract.lvclass" Type="LVClass" URL="../GroupAbstract/GroupAbstract.lvclass"/>
+		<Item Name="StringChannel.lvclass" Type="LVClass" URL="../StringChannel/StringChannel.lvclass"/>
+		<Item Name="StringGroup.lvclass" Type="LVClass" URL="../StringGroup/StringGroup.lvclass"/>
 	</Item>
 	<Item Name="Configs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -35,6 +38,7 @@
 		<Item Name="Connection Info.ctl" Type="VI" URL="../Connection Info.ctl"/>
 		<Item Name="Connection State.ctl" Type="VI" URL="../Connection State.ctl"/>
 		<Item Name="Connection Type.ctl" Type="VI" URL="../Connection Type.ctl"/>
+		<Item Name="Group Data Type.ctl" Type="VI" URL="../Group Data Type.ctl"/>
 		<Item Name="Group Info.ctl" Type="VI" URL="../Group Info.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
 		<Item Name="Publish Config Response Group.ctl" Type="VI" URL="../Publish Config Response Group.ctl"/>
@@ -75,10 +79,11 @@
 		<Item Name="Unwrap UDP Payload.vi" Type="VI" URL="../Unwrap UDP Payload.vi"/>
 	</Item>
 	<Item Name="Promise Values" Type="Folder">
-		<Item Name="ChannelValue.lvclass" Type="LVClass" URL="../ChannelValue/ChannelValue.lvclass"/>
+		<Item Name="DoubleChannelValue.lvclass" Type="LVClass" URL="../ChannelValue/DoubleChannelValue.lvclass"/>
+		<Item Name="GroupAbstractValue.lvclass" Type="LVClass" URL="../GroupValue/GroupAbstractValue.lvclass"/>
 		<Item Name="GroupArrayValue.lvclass" Type="LVClass" URL="../GroupArrayValue/GroupArrayValue.lvclass"/>
 		<Item Name="GroupNamesValue.lvclass" Type="LVClass" URL="../GroupNamesValue/GroupNamesValue.lvclass"/>
-		<Item Name="GroupValue.lvclass" Type="LVClass" URL="../GroupValue/GroupValue.lvclass"/>
+		<Item Name="GroupsAbstractValue.lvclass" Type="LVClass" URL="../GroupsAbstractValue/GroupsAbstractValue.lvclass"/>
 		<Item Name="NodeInfoValue.lvclass" Type="LVClass" URL="../NodeInfoValue/NodeInfoValue.lvclass"/>
 		<Item Name="ReplyValue.lvclass" Type="LVClass" URL="../ReplyValue/ReplyValue.lvclass"/>
 		<Item Name="VectoInfoValue.lvclass" Type="LVClass" URL="../VectoInfoValue/VectoInfoValue.lvclass"/>

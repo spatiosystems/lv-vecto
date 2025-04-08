@@ -4,3 +4,4 @@ v:Discovery
 v:GroupData
 v:TCPAckNack
 v:TcpReply
+v:StringData

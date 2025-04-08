@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Support" Type="Folder">
 		<Item Name="RequestReply Message Handler.lvclass" Type="LVClass" URL="../RequestReply Message Handler/RequestReply Message Handler.lvclass"/>
 		<Item Name="Simple TCP Handler.lvclass" Type="LVClass" URL="../Simple TCP Handler/Simple TCP Handler.lvclass"/>
