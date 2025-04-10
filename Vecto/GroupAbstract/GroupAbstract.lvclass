@@ -85,6 +85,17 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1342713856</Property>
 			</Item>
 		</Item>
+		<Item Name="Num Channels" Type="Folder">
+			<Item Name="Num Channels.vi" Type="VI" URL="../Num Channels.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!".!!Q!-4H6N)%.I97ZO:7RT!!!_1(!!(A!!)QN7:7.U&lt;SZM&gt;GRJ9B6(=G^V=%&amp;C=X2S97.U,GRW9WRB=X-!%5&gt;S&lt;X6Q17*T&gt;(*B9X1A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!0E"Q!"Y!!#-,6G6D&gt;']O&lt;(:M;7)62X*P&gt;8""9H.U=G&amp;D&gt;#ZM&gt;G.M98.T!""(=G^V=%&amp;C=X2S97.U)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342709760</Property>
+			</Item>
+		</Item>
 		<Item Name="Task" Type="Folder">
 			<Item Name="Get Owning Task.vi" Type="VI" URL="../Get Owning Task.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-0````]%6'&amp;T;Q!!0E"Q!"Y!!#-,6G6D&gt;']O&lt;(:M;7)62X*P&gt;8""9H.U=G&amp;D&gt;#ZM&gt;G.M98.T!"&amp;(=G^V=%&amp;C=X2S97.U)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$Z!=!!?!!!D#V:F9X2P,GRW&lt;'FC&amp;5&gt;S&lt;X6Q17*T&gt;(*B9X1O&lt;(:D&lt;'&amp;T=Q!12X*P&gt;8""9H.U=G&amp;D&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A#!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>

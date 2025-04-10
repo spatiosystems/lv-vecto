@@ -11,13 +11,6 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="VectoTCPConnectionHandler.lvclass" Type="LVClass" URL="../VectoTCPConnectionHandler/VectoTCPConnectionHandler.lvclass"/>
 	</Item>
-	<Item Name="Components" Type="Folder">
-		<Item Name="Channel.lvclass" Type="LVClass" URL="../Channel/Channel.lvclass"/>
-		<Item Name="Group.lvclass" Type="LVClass" URL="../Group/Group.lvclass"/>
-		<Item Name="GroupAbstract.lvclass" Type="LVClass" URL="../GroupAbstract/GroupAbstract.lvclass"/>
-		<Item Name="StringChannel.lvclass" Type="LVClass" URL="../StringChannel/StringChannel.lvclass"/>
-		<Item Name="StringGroup.lvclass" Type="LVClass" URL="../StringGroup/StringGroup.lvclass"/>
-	</Item>
 	<Item Name="Configs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Node Config.lvclass" Type="LVClass" URL="../Node Config/Node Config.lvclass"/>
@@ -54,6 +47,13 @@
 		<Item Name="TCP Routing.ctl" Type="VI" URL="../TCP Routing.ctl"/>
 		<Item Name="TX Payload.ctl" Type="VI" URL="../TX Payload.ctl"/>
 		<Item Name="Vecto Info.ctl" Type="VI" URL="../Vecto Info.ctl"/>
+	</Item>
+	<Item Name="Groups" Type="Folder">
+		<Item Name="Channel.lvclass" Type="LVClass" URL="../Channel/Channel.lvclass"/>
+		<Item Name="Group.lvclass" Type="LVClass" URL="../Group/Group.lvclass"/>
+		<Item Name="GroupAbstract.lvclass" Type="LVClass" URL="../GroupAbstract/GroupAbstract.lvclass"/>
+		<Item Name="StringChannel.lvclass" Type="LVClass" URL="../StringChannel/StringChannel.lvclass"/>
+		<Item Name="StringGroup.lvclass" Type="LVClass" URL="../StringGroup/StringGroup.lvclass"/>
 	</Item>
 	<Item Name="HTTP" Type="Folder">
 		<Item Name="Controllers" Type="Folder">

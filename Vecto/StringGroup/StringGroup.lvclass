@@ -44,6 +44,17 @@
 		</Item>
 	</Item>
 	<Item Name="Properties" Type="Folder">
+		<Item Name="All Channels" Type="Folder">
+			<Item Name="All Channels.vi" Type="VI" URL="../All Channels.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'7!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$Z!=!!?!!!D#V:F9X2P,GRW&lt;'FC&amp;6.U=GFO:U.I97ZO:7QO&lt;(:D&lt;'&amp;T=Q!25X2S;7ZH1WBB&lt;GZF&lt;#"P&gt;81!'E"!!!(`````!!5-17RM)%.I97ZO:7RT!!![1(!!(A!!)1N7:7.U&lt;SZM&gt;GRJ9B.4&gt;(*J&lt;G&gt;(=G^V=#ZM&gt;G.M98.T!!^4&gt;(*J&lt;G&gt;(=G^V=#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1![1(!!(A!!)1N7:7.U&lt;SZM&gt;GRJ9B.4&gt;(*J&lt;G&gt;(=G^V=#ZM&gt;G.M98.T!!Z4&gt;(*J&lt;G&gt;(=G^V=#"J&lt;A!!91$Q!!Q!!Q!%!!9!"Q!%!!1!"!!%!!A!"!!%!!E#!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+			</Item>
+		</Item>
 		<Item Name="All Strings" Type="Folder">
 			<Item Name="All Strings.vi" Type="VI" URL="../All Strings.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;C!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!""!-0````]'5W.B&lt;'6E!!!51%!!!@````]!"1&gt;4&gt;(*J&lt;G&gt;T!$J!=!!?!!!B#V:F9X2P,GRW&lt;'FC%V.U=GFO:U&gt;S&lt;X6Q,GRW9WRB=X-!$V.U=GFO:U&gt;S&lt;X6Q)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$J!=!!?!!!B#V:F9X2P,GRW&lt;'FC%V.U=GFO:U&gt;S&lt;X6Q,GRW9WRB=X-!$F.U=GFO:U&gt;S&lt;X6Q)'FO!!"B!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
