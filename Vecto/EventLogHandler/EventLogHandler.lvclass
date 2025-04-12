@@ -13,13 +13,13 @@
 
 </Property>
 	<Item Name="Report Error.vi" Type="VI" URL="../Report Error.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;"!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%*!=!!?!!!F#V:F9X2P,GRW&lt;'FC&amp;U6W:7ZU4'^H3'&amp;O:'RF=CZM&gt;G.M98.T!".&amp;&gt;G6O&gt;%RP:UBB&lt;G2M:8)A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!1E"Q!"Y!!#5,6G6D&gt;']O&lt;(:M;7)828:F&lt;H2-&lt;W&gt;)97ZE&lt;'6S,GRW9WRB=X-!%E6W:7ZU4'^H3'&amp;O:'RF=C"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%J!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!)1V$97RM9WBB;7YA+&amp;1J!"B!-0````]/1W^O&gt;'6Y&gt;#!I4G^O:3E!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!1E"Q!"Y!!#5,6G6D&gt;']O&lt;(:M;7)828:F&lt;H2-&lt;W&gt;)97ZE&lt;'6S,GRW9WRB=X-!%E6W:7ZU4'^H3'&amp;O:'RF=C"J&lt;A!!6!$Q!!Q!!Q!%!!1!"!!%!!5!"!!'!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!"#A!!!!I!!!!!!!!!!!!!!"!!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519040</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342714368</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115684880</Property>
 	</Item>
 	<Item Name="Report Event.vi" Type="VI" URL="../Report Event.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;M!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;U!]1!!!!!!!!!##V:F9X2P,GRW&lt;'FC$U6W:7ZU)%RF&gt;G6M,G.U&lt;!!Z1"9!"!6%:7*V:Q2*&lt;G:P"V&gt;B=GZJ&lt;G=&amp;28*S&lt;X)!!"*&amp;&gt;G6O&gt;#"-:8:F&lt;#!I37ZG&lt;SE!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q&gt;.:8.T97&gt;F!%*!=!!?!!!F#V:F9X2P,GRW&lt;'FC&amp;U6W:7ZU4'^H3'&amp;O:'RF=CZM&gt;G.M98.T!"*&amp;&gt;G6O&gt;%RP:UBB&lt;G2M:8)A;7Y!!&amp;1!]!!-!!-!"!!%!!1!"!!%!!1!"1!'!!1!"Q!)!A!!?!!!$1A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!)!!!!!!!!!B!!!!#1!!!!!!%!#1!!!!!</Property>
