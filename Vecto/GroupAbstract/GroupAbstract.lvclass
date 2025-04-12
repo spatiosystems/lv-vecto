@@ -41,6 +41,17 @@
 		</Item>
 	</Item>
 	<Item Name="Properties" Type="Folder">
+		<Item Name="Channel Names" Type="Folder">
+			<Item Name="Channel Names.vi" Type="VI" URL="../Channel Names.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;O!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-0````]%4G&amp;N:1!!'E"!!!(`````!!5.1WBB&lt;GZF&lt;#"/97VF=Q!_1(!!(A!!)QN7:7.U&lt;SZM&gt;GRJ9B6(=G^V=%&amp;C=X2S97.U,GRW9WRB=X-!%5&gt;S&lt;X6Q17*T&gt;(*B9X1A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!0E"Q!"Y!!#-,6G6D&gt;']O&lt;(:M;7)62X*P&gt;8""9H.U=G&amp;D&gt;#ZM&gt;G.M98.T!""(=G^V=%&amp;C=X2S97.U)'FO!!"B!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+			</Item>
+		</Item>
 		<Item Name="Class Data Type" Type="Folder">
 			<Item Name="Class Data Type.vi" Type="VI" URL="../Class Data Type.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;%!]1!!!!!!!!!##V:F9X2P,GRW&lt;'FC%U&gt;S&lt;X6Q)%2B&gt;'%A6(FQ:3ZD&gt;'Q!+5!7!!)'2'^V9GRF"F.U=GFO:Q!01WRB=X-A2'&amp;U93"5?8"F!$Z!=!!?!!!D#V:F9X2P,GRW&lt;'FC&amp;5&gt;S&lt;X6Q17*T&gt;(*B9X1O&lt;(:D&lt;'&amp;T=Q!22X*P&gt;8""9H.U=G&amp;D&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!_1(!!(A!!)QN7:7.U&lt;SZM&gt;GRJ9B6(=G^V=%&amp;C=X2S97.U,GRW9WRB=X-!%%&gt;S&lt;X6Q17*T&gt;(*B9X1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!E!!!!!</Property>
