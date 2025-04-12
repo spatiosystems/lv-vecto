@@ -108,6 +108,12 @@
 		<Item Name="TCPMessaging.lvclass" Type="LVClass" URL="../TCPMessaging/TCPMessaging.lvclass"/>
 	</Item>
 	<Item Name="Telemetry" Type="Folder">
+		<Item Name="Conversion" Type="Folder">
+			<Item Name="Bool to Double.vi" Type="VI" URL="../Bool to Double.vi"/>
+			<Item Name="Bool to String.vi" Type="VI" URL="../Bool to String.vi"/>
+			<Item Name="Double to Bool.vi" Type="VI" URL="../Double to Bool.vi"/>
+			<Item Name="String to Bool.vi" Type="VI" URL="../String to Bool.vi"/>
+		</Item>
 		<Item Name="RemoteDataService.lvclass" Type="LVClass" URL="../RemoteDataService/RemoteDataService.lvclass"/>
 	</Item>
 	<Item Name="Templates" Type="Folder">
