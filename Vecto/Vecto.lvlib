@@ -96,9 +96,9 @@
 			<Item Name="Port for Service.vi" Type="VI" URL="../Port for Service.vi"/>
 		</Item>
 		<Item Name="ChannelService.lvclass" Type="LVClass" URL="../ChannelService/ChannelService.lvclass"/>
+		<Item Name="DiscoveryService.lvclass" Type="LVClass" URL="../DiscoveryService/DiscoveryService.lvclass"/>
 		<Item Name="EventLoggingService.lvclass" Type="LVClass" URL="../EventLoggingService/EventLoggingService.lvclass"/>
 		<Item Name="MetricsService.lvclass" Type="LVClass" URL="../MetricsService/MetricsService.lvclass"/>
-		<Item Name="NodeDiscovery.lvclass" Type="LVClass" URL="../NodeDiscovery/NodeDiscovery.lvclass"/>
 		<Item Name="NodeStatus.lvclass" Type="LVClass" URL="../InfoService/NodeStatus.lvclass"/>
 		<Item Name="SequenceCountService.lvclass" Type="LVClass" URL="../SequenceCountService/SequenceCountService.lvclass"/>
 		<Item Name="VectoInfo.lvclass" Type="LVClass" URL="../VectoService/VectoInfo.lvclass"/>
