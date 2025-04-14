@@ -89,13 +89,13 @@
 		<Item Name="GroupsAbstractValue.lvclass" Type="LVClass" URL="../GroupsAbstractValue/GroupsAbstractValue.lvclass"/>
 		<Item Name="NodeInfoValue.lvclass" Type="LVClass" URL="../NodeInfoValue/NodeInfoValue.lvclass"/>
 		<Item Name="ReplyValue.lvclass" Type="LVClass" URL="../ReplyValue/ReplyValue.lvclass"/>
+		<Item Name="StringChannelValue.lvclass" Type="LVClass" URL="../StringChannelValue/StringChannelValue.lvclass"/>
 		<Item Name="VectoInfoValue.lvclass" Type="LVClass" URL="../VectoInfoValue/VectoInfoValue.lvclass"/>
 	</Item>
 	<Item Name="Services" Type="Folder">
 		<Item Name="Utilities" Type="Folder">
 			<Item Name="Port for Service.vi" Type="VI" URL="../Port for Service.vi"/>
 		</Item>
-		<Item Name="ChannelService.lvclass" Type="LVClass" URL="../ChannelService/ChannelService.lvclass"/>
 		<Item Name="DiscoveryService.lvclass" Type="LVClass" URL="../DiscoveryService/DiscoveryService.lvclass"/>
 		<Item Name="EventLoggingService.lvclass" Type="LVClass" URL="../EventLoggingService/EventLoggingService.lvclass"/>
 		<Item Name="MetricsService.lvclass" Type="LVClass" URL="../MetricsService/MetricsService.lvclass"/>
@@ -114,6 +114,7 @@
 			<Item Name="Double to Bool.vi" Type="VI" URL="../Double to Bool.vi"/>
 			<Item Name="String to Bool.vi" Type="VI" URL="../String to Bool.vi"/>
 		</Item>
+		<Item Name="ChannelService.lvclass" Type="LVClass" URL="../ChannelService/ChannelService.lvclass"/>
 		<Item Name="RemoteDataService.lvclass" Type="LVClass" URL="../RemoteDataService/RemoteDataService.lvclass"/>
 	</Item>
 	<Item Name="Templates" Type="Folder">
