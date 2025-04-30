@@ -17,9 +17,9 @@ enum AckNackResult {
 
 message TcpAckNack {
     fixed32 target_node = 1;
-    fixed32 target_task = 2;
     fixed32 sequence = 4;
     fixed64 timestamp = 5;
     string type = 6;
+    string task_id = 7;
     AckNackResult result = 10;
 }
