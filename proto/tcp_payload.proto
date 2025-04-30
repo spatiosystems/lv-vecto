@@ -8,9 +8,6 @@ message TcpPayload {
     // id of target node to receive payload
     fixed32 target_node = 1;
 
-    // id of target task within node to receive payload
-    fixed32 target_task = 2;
-
     // id of node that sent payload
     fixed32 source_id = 3;
 
@@ -22,6 +19,9 @@ message TcpPayload {
 
     // payload message type for shared channels
     string type = 6;
+
+    // target task id within node to send message to, falls back to type dispatching
+    string task_id = 7;
 
     // flattened encapsulated message
     bytes payload = 10;
