@@ -11,37 +11,21 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="VectoTCPConnectionHandler.lvclass" Type="LVClass" URL="../VectoTCPConnectionHandler/VectoTCPConnectionHandler.lvclass"/>
 	</Item>
-	<Item Name="Configs" Type="Folder">
-		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="Node Config.lvclass" Type="LVClass" URL="../Node Config/Node Config.lvclass"/>
-		<Item Name="Task Config.lvclass" Type="LVClass" URL="../Task Config/Task Config.lvclass"/>
-		<Item Name="Group Config.lvclass" Type="LVClass" URL="../Group Config/Group Config.lvclass"/>
-		<Item Name="Channel Config.lvclass" Type="LVClass" URL="../Channel Config/Channel Config.lvclass"/>
-	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Add Remove Action.ctl" Type="VI" URL="../Add Remove Action.ctl"/>
-		<Item Name="Channel Info.ctl" Type="VI" URL="../Channel Info.ctl"/>
-		<Item Name="Channel Init.ctl" Type="VI" URL="../Channel Init.ctl"/>
 		<Item Name="Channel Value.ctl" Type="VI" URL="../Channel Value.ctl"/>
 		<Item Name="Channel.ctl" Type="VI" URL="../Channel.ctl"/>
-		<Item Name="Client Info.ctl" Type="VI" URL="../Client Info.ctl"/>
-		<Item Name="Comms Features.ctl" Type="VI" URL="../Comms Features.ctl"/>
-		<Item Name="Config Pair.ctl" Type="VI" URL="../Config Pair.ctl"/>
 		<Item Name="Connection Info.ctl" Type="VI" URL="../Connection Info.ctl"/>
 		<Item Name="Connection State.ctl" Type="VI" URL="../Connection State.ctl"/>
 		<Item Name="Connection Type.ctl" Type="VI" URL="../Connection Type.ctl"/>
 		<Item Name="Event Level.ctl" Type="VI" URL="../Event Level.ctl"/>
-		<Item Name="Group Data Type.ctl" Type="VI" URL="../Group Data Type.ctl"/>
-		<Item Name="Group Info.ctl" Type="VI" URL="../Group Info.ctl"/>
 		<Item Name="Init Implementations.ctl" Type="VI" URL="../Init Implementations.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
 		<Item Name="Publish Config Response Group.ctl" Type="VI" URL="../Publish Config Response Group.ctl"/>
 		<Item Name="Publish Config Response.ctl" Type="VI" URL="../Publish Config Response.ctl"/>
-		<Item Name="Publish Config.ctl" Type="VI" URL="../Publish Config.ctl"/>
 		<Item Name="Send Message Data.ctl" Type="VI" URL="../Send Message Data.ctl"/>
 		<Item Name="Target Group.ctl" Type="VI" URL="../Target Group.ctl"/>
-		<Item Name="Task Info.ctl" Type="VI" URL="../Task Info.ctl"/>
 		<Item Name="Task State.ctl" Type="VI" URL="../Task State.ctl"/>
 		<Item Name="Task Status.ctl" Type="VI" URL="../Task Status.ctl"/>
 		<Item Name="TCP Routing.ctl" Type="VI" URL="../TCP Routing.ctl"/>
