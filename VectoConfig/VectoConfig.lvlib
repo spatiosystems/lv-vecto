@@ -10,10 +10,14 @@
 		<Item Name="Client Info.ctl" Type="VI" URL="../../Vecto/Client Info.ctl"/>
 		<Item Name="Comms Features.ctl" Type="VI" URL="../../Vecto/Comms Features.ctl"/>
 		<Item Name="Config Pair.ctl" Type="VI" URL="../../Vecto/Config Pair.ctl"/>
+		<Item Name="Discovery Info.ctl" Type="VI" URL="../../Vecto/Node Config/Discovery Info.ctl"/>
 		<Item Name="Group Data Type.ctl" Type="VI" URL="../../Vecto/Group Data Type.ctl"/>
 		<Item Name="Group Info.ctl" Type="VI" URL="../../Vecto/Group Info.ctl"/>
+		<Item Name="HTTP Server Info.ctl" Type="VI" URL="../../Vecto/Node Config/HTTP Server Info.ctl"/>
+		<Item Name="Node Info.ctl" Type="VI" URL="../../Vecto/Node Config/Node Info.ctl"/>
 		<Item Name="Publish Config.ctl" Type="VI" URL="../../Vecto/Publish Config.ctl"/>
 		<Item Name="Task Info.ctl" Type="VI" URL="../../Vecto/Task Info.ctl"/>
+		<Item Name="TCP Messaging Info.ctl" Type="VI" URL="../../Vecto/Node Config/TCP Messaging Info.ctl"/>
 	</Item>
 	<Item Name="Channel Config.lvclass" Type="LVClass" URL="../../Vecto/Channel Config/Channel Config.lvclass"/>
 	<Item Name="Group Config.lvclass" Type="LVClass" URL="../../Vecto/Group Config/Group Config.lvclass"/>
